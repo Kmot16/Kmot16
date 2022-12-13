@@ -19,4 +19,12 @@ This is a repository to showcase skills, share projects and track my progress in
 * Microsoft Excel (+7)
 * VBA, DAX, Macros (+7)
 
-## Projects
+### Contact
+Email: [Katia Mottert](mailto:Kmmottert1s@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+Phone: (314) 413-1453
+
+LinkedIn: [https:/www.linkedin.com/in/katiamottert/](https://www.linkedin.com/in/katiamottert/)
+
+### Projects
+
