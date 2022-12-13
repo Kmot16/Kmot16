@@ -24,7 +24,7 @@ Email: [Katia Mottert](mailto:Kmmottert1s@gmail.com?subject=[GitHub]%20Data%20An
 
 Phone: (314) 413-1453
 
-LinkedIn: [KatiaTheAnalyst](https://www.linkedin.com/in/katiamottert/)
+LinkedIn: [KatiaMottert](https://www.linkedin.com/in/katiamottert/)
 
 ### Projects
 
