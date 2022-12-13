@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 * VBA, DAX, Macros (+7)
 
 ### Contact
-Email: [Katia Mottert](mailto:Kmmottert1s@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+Email: [Katia Mottert](mailto:Kmmottert1s@gmail.com?subject=[GitHub]%20Data%20Analyst%20Opportunity)
 
 Phone: (314) 413-1453
 
